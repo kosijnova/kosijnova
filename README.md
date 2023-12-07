@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kosijnova
 - 👀 I’m interested in Math, Econometrics, Machine Learning
-- 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on (maybe in the future ;))
-- 📫 How to reach me pkbp@op.pl
+- 📫 How to reach me krystosiakp8@gmail.com
 
 <!---
 kosijnova/kosijnova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
